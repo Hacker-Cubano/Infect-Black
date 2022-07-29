@@ -18,7 +18,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/Hack03/infect`
+* `git clone https://github.com/Hacker-Cubano/Infect-Black`
 * `cd $HOME`
 * `ls`
 * `cd infect`
